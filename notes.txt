@@ -1,0 +1,8 @@
+-- composite primary keys?
+-- giving alias?
+-- inner join -> join
+-- left outer join -> left join
+-- right outer join -> right join
+-- avoid using implicit join 
+-- avoid using right join as when you are using multiple left and right joins things get really complex
+-- natural join is not recommended to use as sometimes it produces unexpected results
