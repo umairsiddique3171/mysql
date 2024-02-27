@@ -6,3 +6,14 @@
 -- avoid using implicit join 
 -- avoid using right join as when you are using multiple left and right joins things get really complex
 -- natural join is not recommended to use as sometimes it produces unexpected results
+-- set SQL_SAFE_UPDATES = 0;
+-- Enhanced Entity-Relationship (EER) Diagram
+-- parent table -> table where foreign key of another table exists as primary key
+-- child table -> table where primary key of another talble exists as foreign key
+-- drop table table_name;
+-- drop -> deletes table
+-- truncate -> deletes table data
+-- when we have two kind of data or more in a table we use self join to extract relevant data
+-- union vs union all
+-- we can use subqueries with select, from and where but 90% of the time we use them with where.
+-- drop view view_name
