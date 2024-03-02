@@ -4,7 +4,7 @@ Welcome to my GitHub repository dedicated to MySQL! Here, you'll find practice c
 Download and Install MySQL Server, Workbench and Shell from [here](https://dev.mysql.com/downloads/installer/).
 
 ## Practice Code 
-You can access all the practice code from (here)[https://github.com/umairsiddique3171/mysql/tree/main/mysql%20wb%20practice].
+You can access all the practice code from [here](https://github.com/umairsiddique3171/mysql/tree/main/mysql%20wb%20practice).
 
 ## Notes 
 * composite primary keys?
