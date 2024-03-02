@@ -1,5 +1,7 @@
 # mysql
-Welcome to my GitHub repository dedicated to MySQL! Here, you'll find practice code and notes I created while learning MySQL DBMS.
+Welcome to my GitHub repository dedicated to MySQL!
+<br>
+Here, you'll find practice code and notes I created while learning MySQL DBMS.
 ## Installation
 Download and Install MySQL Server, Workbench and Shell from [here](https://dev.mysql.com/downloads/installer/).
 
